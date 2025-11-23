@@ -294,5 +294,8 @@
     "vis-data": "8.0.3",
     "vis-dev-utils": "6.0.1",
     "vis-util": "6.0.0"
+  },
+  "dependencies": {
+    "vis-network": "github:gdies/vis-network#master"
   }
 }
